@@ -1,7 +1,7 @@
 # PNOCRtool_V1
 A Phase Noise Analyzer(R&S) screen shoot OCR tool.
 
-You can use this tool to OCR your R&S PNA screenshoots at once and generate an excel file.
+Just drag or manually select screenshoots folder in the GUI, you can use this tool to OCR your R&S PNA screenshoots at once and generate an excel file.
 
 Hope this tool will boost your Analog/RF measurement.
 
