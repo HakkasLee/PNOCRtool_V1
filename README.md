@@ -1,4 +1,4 @@
-English | [中文说明](./README.zh.md)
+English | [中文](./README.zh.md)
 
 # Phase Noise Analyzer (R&S) Screenshot OCR Tool
 
