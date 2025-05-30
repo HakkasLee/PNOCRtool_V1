@@ -1,4 +1,4 @@
-[English Description](./README.md) | 中文说明
+[English](./README.md) | 中文说明
 
 # R&S 相位噪声分析仪截图识别工具（OCR）
 
