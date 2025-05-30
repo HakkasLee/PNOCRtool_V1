@@ -37,3 +37,8 @@ Manual transcription of measurement results is time-consuming and prone to error
 <img width="594" alt="截屏2025-04-30 11 54 25" src="https://github.com/user-attachments/assets/787bfcbb-61f3-4798-be46-b1c1f8170171" />
 
 <img width="594" alt="截屏2025-04-30 11 55 41" src="https://github.com/user-attachments/assets/41aff324-d290-47ca-ba2e-e9b069ba3777" />
+
+<img width="877" alt="截屏2025-05-30 11 11 29" src="https://github.com/user-attachments/assets/6fa25576-1113-4dc0-b19d-8718bd22c3a6" />
+
+
+
